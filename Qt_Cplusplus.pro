@@ -3,7 +3,8 @@ TEMPLATE = subdirs
 SUBDIRS += \
     ObserverPattern \
     CallBack \
-    CPlusCallBack
+    CPlusCallBack \
+    SinkCallBack
 SUBDIRS += \
     JSB
 SUBDIRS += \
