@@ -4,7 +4,8 @@ SUBDIRS += \
     ObserverPattern \
     CallBack \
     CPlusCallBack \
-    SinkCallBack
+    SinkCallBack \
+    Product_Consume
 SUBDIRS += \
     JSB
 SUBDIRS += \
