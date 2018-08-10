@@ -1,7 +1,8 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
-    ObserverPattern
+    ObserverPattern \
+    CallBack
 SUBDIRS += \
     JSB
 SUBDIRS += \
