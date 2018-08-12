@@ -39,7 +39,8 @@ void Widget::mvalueChanged(int value)
 void Widget::update_background()
 {
     m_device=QPixmap(":/res/background.png");
-    QBitmap bitmap=m_device.createHeuristicMask();
+    //QBitmap bitmap=m_device.createHeuristicMask();
+    QBitmap bitmap=m_device.mask();
     setFixedSize(m_device.size());
     setMask(bitmap);
     update();
