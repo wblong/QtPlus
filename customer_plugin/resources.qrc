@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.png</file>
+        <file>res/slider-handle.png</file>
+    </qresource>
+</RCC>

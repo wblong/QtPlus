@@ -12,3 +12,5 @@
 	Qt http请求
 #### Product_Consume
     线程同步之生产者和消费者
+#### customer_plugin
+    designer自定义插件

@@ -5,7 +5,8 @@ SUBDIRS += \
     CallBack \
     CPlusCallBack \
     SinkCallBack \
-    Product_Consume
+    Product_Consume \
+    customer_plugin
 SUBDIRS += \
     JSB
 SUBDIRS += \
