@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/filter.png</file>
+        <file>images/goto_page.png</file>
+        <file>images/next_page.png</file>
+        <file>images/pre_page.png</file>
+        <file>images/table.png</file>
+        <file>images/down.png</file>
+        <file>images/up.png</file>
+    </qresource>
+</RCC>

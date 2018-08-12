@@ -11,3 +11,5 @@ SUBDIRS += \
     JSB
 SUBDIRS += \
 	test_http
+SUBDIRS += \
+        psp_ui
