@@ -1,4 +1,5 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
-        Butterfly
+        Butterfly \
+    glog_test

@@ -18,3 +18,5 @@
     数据分页，字段选择
 #### Butterfly
     场景、视图、图元
+#### glog_test
+	glog 简单使用
