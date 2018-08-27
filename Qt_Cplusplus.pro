@@ -2,4 +2,5 @@ TEMPLATE = subdirs
 
 SUBDIRS += \
         Butterfly \
-    glog_test
+    glog_test \
+    ThreadPool_Self
